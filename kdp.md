@@ -1,3 +1,5 @@
+# The Power of Behavioral Interviewing: Techniques for Assessing Candidates' Past Behavior and Predicting Future Performance
+
 # Introduction
 
 The Power of Behavioral Interviewing: Techniques for Assessing Candidates' Past Behavior and Predicting Future Performance is a book that provides practical guidance on how to conduct effective interviews that assess candidates' past behavior and predict future performance. In today's competitive job market, it's essential for companies to hire top talent that can drive business success. This book offers readers a proven approach to interviewing that helps identify the best candidates for the job.
@@ -8,3 +10,27 @@ Whether you're an experienced interviewer or new to the hiring process, this boo
 
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+
+
+1. Interviewing techniques
+2. Candidate assessment
+3. Hiring strategies
+4. Employee selection
+5. Recruitment process
+6. Human resources management
+7. Employee performance evaluation
+8. Talent acquisition
+9. Behavioral psychology
+10. Job interview preparation
+11. Hiring best practices
+12. Employment law
+13. Workplace culture
+14. Management and leadership
+15. Organizational development
+16. Workforce planning
+17. Succession planning
+18. Staff retention
+19. Career development
+20. Employment trends
+

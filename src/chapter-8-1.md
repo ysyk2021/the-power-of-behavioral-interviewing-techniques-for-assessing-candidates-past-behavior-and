@@ -1,4 +1,4 @@
-Chapter 8: Advanced Behavioral Interviewing Techniques: Using Hypothetical Scenarios to Assess Problem-Solving Abilities
+Using Hypothetical Scenarios to Assess Problem-Solving Abilities
 ========================================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, using advanced techniques such as hypothetical scenarios can provide even deeper insights into a candidate's problem-solving abilities. In this chapter, we will explore the use of hypothetical scenarios in behavioral interviewing.

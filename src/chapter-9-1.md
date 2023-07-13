@@ -1,4 +1,4 @@
-Chapter 9: Best Practices in Behavioral Interviewing: Tips for Optimizing the Benefits of Behavioral Interviewing
+Tips for Optimizing the Benefits of Behavioral Interviewing
 =================================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, to fully optimize the benefits of behavioral interviewing, it is important to follow best practices and avoid common pitfalls. In this chapter, we will explore tips for optimizing the benefits of behavioral interviewing.

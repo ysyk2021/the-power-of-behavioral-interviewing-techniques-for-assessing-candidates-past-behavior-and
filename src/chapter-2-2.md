@@ -1,4 +1,4 @@
-Chapter 2: Understanding Behavioral Interviewing: Advantages of Using Behavioral Interviewing over Traditional Interviews
+Advantages of Using Behavioral Interviewing over Traditional Interviews
 =========================================================================================================================
 
 Behavioral interviewing is a technique used by hiring managers and recruiters to assess candidates' past behavior in order to predict their future performance. In this chapter, we will explore the advantages of using behavioral interviewing over traditional interviews.

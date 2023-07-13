@@ -1,4 +1,4 @@
-Chapter 8: Advanced Behavioral Interviewing Techniques: Conducting Team-Based Behavioral Interviews
+Conducting Team-Based Behavioral Interviews
 ===================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, using advanced techniques such as team-based behavioral interviews can provide even deeper insights into a candidate's ability to work effectively with others. In this chapter, we will explore the use of team-based behavioral interviews.

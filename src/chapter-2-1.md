@@ -1,4 +1,4 @@
-Chapter 2: Understanding Behavioral Interviewing: What is Behavioral Interviewing and How Does it Work?
+What is Behavioral Interviewing and How Does it Work?
 =======================================================================================================
 
 Behavioral interviewing is a technique used by hiring managers and recruiters to assess candidates' past behavior in order to predict their future performance. In this chapter, we will explore what behavioral interviewing is and how it works.

@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Why behavioral interviewing is a powerful tool in the hiring process](chapter-1-1.md)
   - [Overview of the book's contents](chapter-1-2.md)
 - [Chapter 2: Understanding Behavioral Interviewing](chapter-2.md)
@@ -40,8 +39,5 @@
   - [Techniques for assessing candidates' past behavior and predicting future performance](chapter-10-1.md)
   - [Advantages of using behavioral interviewing in hiring decisions](chapter-10-2.md)
   - [Case studies demonstrating the effectiveness of behavioral interviewing](chapter-10-3.md)
-- [Conclusion](chapter-11.md)
-  - [Summary of key points](chapter-11-1.md)
-  - [Future directions for behavioral interviewing in the hiring process](chapter-11-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

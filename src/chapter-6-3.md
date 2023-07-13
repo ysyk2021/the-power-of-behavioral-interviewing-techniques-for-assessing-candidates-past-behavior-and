@@ -1,4 +1,4 @@
-Chapter 6: Navigating Legal Considerations: Documenting the Interview and Selection Process
+Documenting the Interview and Selection Process
 ===========================================================================================
 
 As an interviewer, it's essential to understand the legal considerations surrounding the interview and selection process. One of the most critical aspects is documenting your interview and selection process. Documentation can help protect your company from potential legal issues and provide a clear record of your decision-making process.

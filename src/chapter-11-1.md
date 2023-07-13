@@ -1,4 +1,4 @@
-Conclusion: Summary of Key Points
+Summary of Key Points
 =================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future performance. In this book, we have explored various techniques and best practices for conducting effective behavioral interviews.

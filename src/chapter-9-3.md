@@ -1,4 +1,4 @@
-Chapter 9: Best Practices in Behavioral Interviewing: Strategies for Continuous Improvement of the Interview Process
+Strategies for Continuous Improvement of the Interview Process
 ====================================================================================================================
 
 Continuous improvement of the behavioral interview process is crucial for optimizing the benefits of this powerful tool for assessing candidates' past behavior and predicting their future job performance. In this chapter, we will explore strategies for continuous improvement of the behavioral interview process.

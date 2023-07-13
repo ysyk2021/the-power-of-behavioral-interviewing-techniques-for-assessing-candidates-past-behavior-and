@@ -1,4 +1,4 @@
-Chapter 7: Implementing Behavioral Interviewing in Your Organization: Incorporating Behavioral Interviewing into Your Hiring Process
+Incorporating Behavioral Interviewing into Your Hiring Process
 ====================================================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, incorporating behavioral interviewing into your organization's hiring process can be challenging. In this chapter, we will explore tips for incorporating behavioral interviewing into your hiring process.

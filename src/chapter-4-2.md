@@ -1,4 +1,4 @@
-Chapter 4: Conducting Effective Behavioral Interviews: Strategies for Putting Candidates at Ease and Encouraging Open Communication
+Strategies for Putting Candidates at Ease and Encouraging Open Communication
 ===================================================================================================================================
 
 Putting candidates at ease and encouraging open communication are crucial components of conducting effective behavioral interviews. By creating a comfortable and welcoming environment, interviewers can gain valuable insights into a candidate's past behavior and make better hiring decisions. In this chapter, we will explore strategies for putting candidates at ease and encouraging open communication during the behavioral interview.

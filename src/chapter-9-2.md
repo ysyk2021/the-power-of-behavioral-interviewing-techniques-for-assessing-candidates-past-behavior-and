@@ -1,4 +1,4 @@
-Chapter 9: Best Practices in Behavioral Interviewing: Examples of Successful Implementations of Behavioral Interviewing
+Examples of Successful Implementations of Behavioral Interviewing
 =======================================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. Many organizations have successfully implemented behavioral interviewing techniques to build successful teams with employees who have the necessary skills, competencies, and personalities to perform well in their roles. In this chapter, we will explore examples of successful implementations of behavioral interviewing.

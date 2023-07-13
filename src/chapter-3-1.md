@@ -1,4 +1,4 @@
-Chapter 3: Developing Behavioral Interview Questions: Identifying the Competencies and Skills Needed for the Job
+Identifying the Competencies and Skills Needed for the Job
 ================================================================================================================
 
 Developing effective behavioral interview questions is essential in assessing candidates' past behavior and predicting their future performance. In this chapter, we will explore strategies for identifying the competencies and skills needed for the job and developing effective behavioral interview questions.

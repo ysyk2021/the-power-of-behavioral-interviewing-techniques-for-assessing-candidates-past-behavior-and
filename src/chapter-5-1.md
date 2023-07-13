@@ -1,4 +1,4 @@
-Chapter 5: Evaluating Responses and Making Hiring Decisions: Scoring Candidate Responses Based on Predetermined Criteria
+Scoring Candidate Responses Based on Predetermined Criteria
 ========================================================================================================================
 
 Evaluating candidate responses objectively based on predetermined criteria is crucial for making hiring decisions based on the most qualified candidates. In this chapter, we will explore techniques for scoring candidate responses based on predetermined criteria.

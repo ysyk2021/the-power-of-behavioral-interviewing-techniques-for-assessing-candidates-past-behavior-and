@@ -1,4 +1,4 @@
-Chapter 3: Developing Behavioral Interview Questions: Creating Questions that Elicit Detailed Responses about Past Behavior
+Creating Questions that Elicit Detailed Responses about Past Behavior
 ===========================================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, developing effective behavioral interview questions that elicit detailed responses about past behavior can be challenging. In this chapter, we will explore tips for developing behavioral interview questions that create detailed responses about past behavior.

@@ -1,4 +1,4 @@
-Chapter 7: Implementing Behavioral Interviewing in Your Organization: Training Hiring Managers and Interviewers on Behavioral Interviewing Techniques
+Training Hiring Managers and Interviewers on Behavioral Interviewing Techniques
 =====================================================================================================================================================
 
 Implementing behavioral interviewing in your organization requires training hiring managers and interviewers on effective behavioral interviewing techniques. In this chapter, we will explore strategies for training hiring managers and interviewers on behavioral interviewing techniques.

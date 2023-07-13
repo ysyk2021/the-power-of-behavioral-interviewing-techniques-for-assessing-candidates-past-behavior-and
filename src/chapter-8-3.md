@@ -1,4 +1,4 @@
-Chapter 8: Advanced Behavioral Interviewing Techniques: Analyzing Nonverbal Behavior During the Interview
+Analyzing Nonverbal Behavior During the Interview
 =========================================================================================================
 
 In addition to asking specific questions about past behavior, analyzing nonverbal behavior during the interview can provide valuable insights into a candidate's personality, communication style, and emotional intelligence. In this chapter, we will explore advanced behavioral interviewing techniques for analyzing nonverbal behavior during the interview.

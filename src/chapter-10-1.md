@@ -1,4 +1,4 @@
-Chapter 10: The Power of Behavioral Interviewing: Techniques for Assessing Candidates' Past Behavior and Predicting Future Performance
+Techniques for Assessing Candidates' Past Behavior and Predicting Future Performance
 ======================================================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future performance. In this chapter, we will explore the techniques for conducting effective behavioral interviews.

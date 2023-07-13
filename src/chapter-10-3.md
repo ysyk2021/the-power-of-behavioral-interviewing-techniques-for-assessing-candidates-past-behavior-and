@@ -1,4 +1,4 @@
-Chapter 10: The Power of Behavioral Interviewing: Case Studies Demonstrating the Effectiveness of Behavioral Interviewing
+Case Studies Demonstrating the Effectiveness of Behavioral Interviewing
 =========================================================================================================================
 
 Behavioral interviewing has proven to be an effective method for assessing candidates' past behavior and predicting their future performance. In this chapter, we will explore case studies that demonstrate the power of behavioral interviewing in the hiring process.

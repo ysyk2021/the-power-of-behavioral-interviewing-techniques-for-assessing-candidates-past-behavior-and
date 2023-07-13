@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Overview of the Book's Contents
+Overview of the Book's Contents
 ========================================================
 
 "The Power of Behavioral Interviewing: Techniques for Assessing Candidates' Past Behavior and Predicting Future Performance" is a guidebook for hiring managers and recruiters who are looking to improve their ability to assess candidates and make informed hiring decisions. In this chapter, we will provide an overview of the book's contents.

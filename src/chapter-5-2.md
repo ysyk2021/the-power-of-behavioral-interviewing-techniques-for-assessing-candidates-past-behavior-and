@@ -1,4 +1,4 @@
-Chapter 5: Evaluating Responses and Making Hiring Decisions: Comparing Candidates Fairly and Objectively
+Comparing Candidates Fairly and Objectively
 ========================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, evaluating responses and comparing candidates fairly and objectively can be challenging. In this chapter, we will explore tips for evaluating responses and making hiring decisions based on behavioral interview data while ensuring fairness and objectivity.

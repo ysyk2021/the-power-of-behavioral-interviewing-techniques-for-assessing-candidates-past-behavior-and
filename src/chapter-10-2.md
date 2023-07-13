@@ -1,4 +1,4 @@
-Chapter 10: The Power of Behavioral Interviewing: Advantages of Using Behavioral Interviewing in Hiring Decisions
+Advantages of Using Behavioral Interviewing in Hiring Decisions
 =================================================================================================================
 
 Behavioral interviewing is a valuable tool that can help hiring managers and recruiters make informed hiring decisions. In this chapter, we will explore the advantages of using behavioral interviewing in the hiring process.

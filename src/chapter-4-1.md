@@ -1,4 +1,4 @@
-Chapter 4: Conducting Effective Behavioral Interviews: Techniques for Building Rapport with Candidates
+Techniques for Building Rapport with Candidates
 ======================================================================================================
 
 Building rapport with candidates is an important aspect of conducting effective behavioral interviews. A comfortable and relaxed candidate is more likely to provide honest and insightful responses about their past behavior. In this chapter, we will explore techniques for building rapport with candidates during the behavioral interview.

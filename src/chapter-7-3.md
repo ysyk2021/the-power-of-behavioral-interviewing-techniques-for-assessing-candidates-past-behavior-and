@@ -1,4 +1,4 @@
-Chapter 7: Implementing Behavioral Interviewing in Your Organization: Measuring the Effectiveness of Behavioral Interviewing
+Measuring the Effectiveness of Behavioral Interviewing
 ============================================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, it is important to measure the effectiveness of behavioral interviewing to ensure that it is providing value to your organization. In this chapter, we will explore tips for measuring the effectiveness of behavioral interviewing.

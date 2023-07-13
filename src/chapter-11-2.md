@@ -1,4 +1,4 @@
-Conclusion: Future Directions for Behavioral Interviewing in the Hiring Process
+Future Directions for Behavioral Interviewing in the Hiring Process
 ===============================================================================
 
 Behavioral interviewing has proved to be an effective method for assessing candidates' past behavior and predicting future performance. However, as the job market evolves, so must the hiring process.

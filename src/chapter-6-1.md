@@ -1,4 +1,4 @@
-Chapter 6: Navigating Legal Considerations: Ensuring Compliance with Anti-Discrimination Laws and Regulations
+Ensuring Compliance with Anti-Discrimination Laws and Regulations
 =============================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, it is important to navigate legal considerations and ensure compliance with anti-discrimination laws and regulations. In this chapter, we will explore tips for ensuring compliance with anti-discrimination laws and regulations during the behavioral interview process.

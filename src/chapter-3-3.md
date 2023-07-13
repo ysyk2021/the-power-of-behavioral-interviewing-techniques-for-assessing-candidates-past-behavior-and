@@ -1,4 +1,4 @@
-Chapter 3: Developing Behavioral Interview Questions: Structuring Questions to Assess Multiple Competencies at Once
+Structuring Questions to Assess Multiple Competencies at Once
 ===================================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, developing effective behavioral interview questions that assess multiple competencies at once can be challenging. In this chapter, we will explore tips for developing behavioral interview questions that structure questions to assess multiple competencies at once.

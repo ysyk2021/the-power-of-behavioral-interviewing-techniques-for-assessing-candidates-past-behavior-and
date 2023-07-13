@@ -1,4 +1,4 @@
-Chapter 4: Conducting Effective Behavioral Interviews: Tips for Active Listening and Probing for More Information
+Tips for Active Listening and Probing for More Information
 =================================================================================================================
 
 Conducting effective behavioral interviews requires active listening and probing for more information to gain valuable insights into a candidate's past behavior. In this chapter, we will explore tips for active listening and probing for more information during the behavioral interview.

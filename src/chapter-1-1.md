@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Why Behavioral Interviewing is a Powerful Tool in the Hiring Process
+Why Behavioral Interviewing is a Powerful Tool in the Hiring Process
 =============================================================================================
 
 Behavioral interviewing is a powerful tool that can help hiring managers and recruiters more effectively assess candidates and make informed hiring decisions. In this chapter, we will explore the reasons why behavioral interviewing is such a valuable tool in the hiring process.

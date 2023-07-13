@@ -1,4 +1,4 @@
-Chapter 5: Evaluating Responses and Making Hiring Decisions: Using Behavioral Interview Data to Make Hiring Decisions
+Using Behavioral Interview Data to Make Hiring Decisions
 =====================================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, it is important to effectively evaluate responses and use the data collected during behavioral interviews to make informed hiring decisions. In this chapter, we will explore tips for evaluating responses and making hiring decisions based on behavioral interview data.
