@@ -1,8 +1,5 @@
 # Conclusion
 
-Conclusion
-==========
-
 Behavioral interviewing is a powerful tool that can help hiring managers and recruiters more effectively assess candidates and make informed hiring decisions. In this book, we have explored the techniques for conducting effective behavioral interviews, the advantages of using behavioral interviewing in hiring decisions, and case studies that demonstrate the effectiveness of behavioral interviewing.
 
 Summary of Key Points
