@@ -8,7 +8,6 @@ Through personal stories, real-world examples, and actionable recommendations, r
 
 Whether you're an experienced interviewer or new to the hiring process, this book offers valuable insights and strategies for assessing candidate potential and selecting top talent. By implementing the techniques outlined in this book, you can improve your hiring process, reduce turnover rates, and achieve your business objectives. Join us on this journey towards unlocking the power of behavioral interviewing!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
