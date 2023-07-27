@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Why behavioral interviewing is a powerful tool in the hiring process](chapter-1-1.md)
-  - [Overview of the book's contents](chapter-1-2.md)
 - [Chapter 2: Understanding Behavioral Interviewing](chapter-2.md)
   - [What is behavioral interviewing and how does it work?](chapter-2-1.md)
   - [Advantages of using behavioral interviewing over traditional interviews](chapter-2-2.md)
