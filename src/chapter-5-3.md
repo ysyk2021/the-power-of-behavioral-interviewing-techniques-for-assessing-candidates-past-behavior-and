@@ -1,5 +1,3 @@
-Using Behavioral Interview Data to Make Hiring Decisions
-=================================================================
 
 In this chapter, we will explore the importance of effectively utilizing behavioral interview data to make informed hiring decisions. Behavioral interviewing techniques provide valuable insights into candidates' past behavior and can greatly assist in predicting their future performance. By leveraging this data, employers can make more accurate assessments and select candidates who are well-suited for the role.
 

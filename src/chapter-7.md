@@ -1,5 +1,3 @@
-Chapter 7: Implementing Behavioral Interviewing in Your Organization
-====================================================================
 
 Implementing behavioral interviewing in your organization can lead to more accurate assessments of candidates' past behavior and better predictions of their future performance. In this chapter, we will explore strategies for training hiring managers and interviewers on behavioral interviewing techniques, incorporating behavioral interviewing into your hiring process, and measuring its effectiveness.
 

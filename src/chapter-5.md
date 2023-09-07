@@ -1,5 +1,3 @@
-Chapter 5: Evaluating Responses and Making Hiring Decisions
-===========================================================
 
 After conducting behavioral interviews with candidates, it is important to evaluate their responses and make informed hiring decisions. This chapter will cover techniques for evaluating responses and making fair and objective hiring decisions.
 
@@ -31,5 +29,4 @@ Consider the candidate's fit with the company culture, their work ethic, and any
 It is also important to remember that no single candidate will meet all of the predetermined criteria perfectly. Use your best judgement and prioritize the criteria that are most important for the position when making the final decision.
 
 In conclusion, evaluating candidate responses and making hiring decisions based on predetermined criteria and fair comparisons can help ensure that you make informed, objective decisions when selecting the best candidates for your organization.
-
 

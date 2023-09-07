@@ -1,5 +1,3 @@
-Structuring Questions to Assess Multiple Competencies at Once
-======================================================================
 
 In behavioral interviewing, structuring questions that can effectively assess multiple competencies at once is a valuable skill. By combining different competencies in a single question, interviewers can gather comprehensive information about a candidate's abilities and evaluate their suitability for the job more efficiently. This chapter will explore various techniques and strategies for structuring questions that assess multiple competencies simultaneously.
 

@@ -1,5 +1,3 @@
-Strategies for Putting Candidates at Ease and Encouraging Open Communication
-=====================================================================================
 
 In this chapter, we will explore effective strategies for creating a comfortable and engaging environment during behavioral interviews. Putting candidates at ease can help them open up and provide valuable insights into their past behavior and potential for future performance. We will discuss the significance of creating a positive interview experience, provide tips for building rapport, and explore techniques to foster open communication with candidates.
 

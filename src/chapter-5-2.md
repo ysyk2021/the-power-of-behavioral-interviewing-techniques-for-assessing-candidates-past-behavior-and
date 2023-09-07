@@ -1,5 +1,3 @@
-Comparing Candidates Fairly and Objectively
-====================================================
 
 In this chapter, we will explore the importance of comparing candidates fairly and objectively during the hiring process. It is crucial to establish a systematic and unbiased evaluation framework that allows for a consistent assessment of candidates' qualifications, skills, and fit for the role. By adopting fair and objective practices, employers can make informed decisions and select the most suitable candidate.
 

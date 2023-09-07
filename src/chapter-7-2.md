@@ -1,5 +1,3 @@
-Incorporating Behavioral Interviewing into Your Hiring Process
-=======================================================================
 
 In this chapter, we will explore how to effectively incorporate behavioral interviewing techniques into your hiring process. By integrating these techniques, you can gain valuable insights into candidates' past behavior and make more accurate predictions about their future performance. This chapter will guide you through the steps of incorporating behavioral interviewing into your hiring process.
 

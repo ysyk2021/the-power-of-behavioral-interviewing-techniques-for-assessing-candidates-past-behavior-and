@@ -1,5 +1,3 @@
-Avoiding Bias and Maintaining Fairness in the Interview Process
-===========================================================================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future job performance. However, it is important to navigate legal considerations and avoid bias while maintaining fairness in the interview process. In this chapter, we will explore tips for avoiding bias and maintaining fairness in the behavioral interview process.
 

@@ -1,5 +1,3 @@
-Chapter 9: Best Practices in Behavioral Interviewing
-====================================================
 
 Behavioral interviewing is a valuable tool for assessing candidates' past behavior and predicting their future performance. In this chapter, we will explore best practices for optimizing the benefits of behavioral interviewing, examples of successful implementations, and strategies for continuous improvement.
 

@@ -1,5 +1,3 @@
-Training Hiring Managers and Interviewers on Behavioral Interviewing Techniques
-========================================================================================
 
 In this chapter, we will discuss the importance of training hiring managers and interviewers on behavioral interviewing techniques. Effective implementation of behavioral interviewing requires a clear understanding of the methodology and proper application of the techniques. By providing comprehensive training, employers can equip their hiring managers and interviewers with the necessary skills and knowledge to conduct successful behavioral interviews.
 

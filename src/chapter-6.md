@@ -1,5 +1,3 @@
-Chapter 6: Navigating Legal Considerations
-==========================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future performance. However, it is important to navigate legal considerations to ensure compliance with anti-discrimination laws and regulations, avoid bias, and maintain fairness in the interview process.
 

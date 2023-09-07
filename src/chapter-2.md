@@ -1,5 +1,3 @@
-Chapter 2: Understanding Behavioral Interviewing
-================================================
 
 Behavioral interviewing is a technique used to assess a candidate's past behavior to predict their future job performance. In this chapter, we will explore what behavioral interviewing is and how it works, the advantages of using behavioral interviewing over traditional interviews, and common mistakes to avoid when conducting behavioral interviews.
 
@@ -38,5 +36,4 @@ Behavioral interviewing is a powerful tool for assessing candidates' past behavi
 Using behavioral interviewing over traditional interviews has several advantages, including providing a more accurate evaluation process, being more objective, and reducing bias.
 
 To conduct effective behavioral interviews, it is important to establish predetermined criteria, ask specific open-ended questions, and avoid common mistakes that can negatively impact the evaluation process.
-
 

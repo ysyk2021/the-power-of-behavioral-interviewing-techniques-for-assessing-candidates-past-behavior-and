@@ -1,5 +1,3 @@
-Chapter 10: The Power of Behavioral Interviewing
-================================================
 
 Behavioral interviewing is a powerful tool for assessing candidates' past behavior and predicting their future performance. In this chapter, we will explore the techniques for conducting effective behavioral interviews, the advantages of using behavioral interviewing in hiring decisions, and case studies that demonstrate the effectiveness of behavioral interviewing.
 

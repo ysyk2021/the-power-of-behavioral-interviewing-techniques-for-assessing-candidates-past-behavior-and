@@ -1,5 +1,3 @@
-Common Mistakes to Avoid When Conducting Behavioral Interviews
-=======================================================================
 
 In this chapter, we will discuss some common mistakes that interviewers should avoid when conducting behavioral interviews. As behavioral interviewing is a powerful technique for assessing candidates' past behavior and predicting their future performance, it is crucial to conduct these interviews effectively and accurately. By being aware of and avoiding these common pitfalls, interviewers can enhance the quality and reliability of the evaluation process.
 

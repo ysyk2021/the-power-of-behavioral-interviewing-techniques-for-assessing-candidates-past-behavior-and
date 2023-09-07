@@ -1,5 +1,3 @@
-Creating Questions that Elicit Detailed Responses about Past Behavior
-==============================================================================
 
 In behavioral interviewing, the quality of the information obtained relies on asking questions that elicit detailed responses about a candidate's past behavior. By designing thoughtful and specific questions, interviewers can gather comprehensive insights into a candidate's experiences, actions, and outcomes. This chapter will explore techniques and strategies for creating questions that encourage candidates to provide in-depth and detailed responses about their past behavior.
 

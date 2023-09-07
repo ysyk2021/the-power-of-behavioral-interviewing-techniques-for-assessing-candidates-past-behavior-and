@@ -1,5 +1,3 @@
-Scoring Candidate Responses Based on Predetermined Criteria
-====================================================================
 
 In this chapter, we will explore the process of scoring candidate responses in behavioral interviewing based on predetermined criteria. Scoring responses allows for an objective evaluation of candidates' past behavior and helps in predicting their future performance. This chapter will guide you through the steps of developing scoring criteria and applying them to assess candidate responses.
 

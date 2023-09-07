@@ -1,5 +1,3 @@
-Measuring the Effectiveness of Behavioral Interviewing
-===============================================================
 
 In this chapter, we will explore various methods to measure the effectiveness of behavioral interviewing techniques in assessing candidates' past behavior and predicting their future performance. By evaluating the outcomes and impact of behavioral interviewing, you can continuously improve your hiring process. This chapter will guide you through different approaches to measure the effectiveness of behavioral interviewing.
 

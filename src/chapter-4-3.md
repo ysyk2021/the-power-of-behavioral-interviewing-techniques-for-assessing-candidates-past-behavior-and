@@ -1,5 +1,3 @@
-Tips for Active Listening and Probing for More Information
-===================================================================
 
 In this chapter, we will explore the significance of active listening and effective probing techniques in behavioral interviewing. Active listening enables interviewers to gather comprehensive information about candidates' past behavior and predict their future performance accurately. We will discuss the importance of active listening, provide tips for improving active listening skills, and explore effective probing techniques to elicit more valuable information from candidates.
 

@@ -1,5 +1,3 @@
-Documenting the Interview and Selection Process
-========================================================
 
 In this chapter, we will explore the importance of documenting the interview and selection process when using behavioral interviewing techniques. Documentation plays a crucial role in ensuring fairness, consistency, and accountability throughout the hiring process. In this chapter, we will discuss why documentation is essential, what should be documented, and how to effectively document the interview and selection process.
 

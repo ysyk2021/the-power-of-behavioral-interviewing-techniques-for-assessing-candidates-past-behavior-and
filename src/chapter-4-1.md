@@ -1,5 +1,3 @@
-Techniques for Building Rapport with Candidates
-========================================================
 
 Building rapport is crucial during the candidate interviewing process as it sets the foundation for effective communication and helps assess a candidate's suitability for the role. In this chapter, we will explore various techniques for building rapport with candidates, allowing you to establish a positive connection and gather valuable insights into their past behavior and future potential.
 

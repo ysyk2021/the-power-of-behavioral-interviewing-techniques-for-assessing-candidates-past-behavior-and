@@ -1,5 +1,3 @@
-Chapter 8: Advanced Behavioral Interviewing Techniques
-======================================================
 
 Behavioral interviewing is an effective method for assessing a candidate's past behavior and predicting their future performance. However, there are advanced techniques that can be used to further improve the accuracy and effectiveness of this approach.
 

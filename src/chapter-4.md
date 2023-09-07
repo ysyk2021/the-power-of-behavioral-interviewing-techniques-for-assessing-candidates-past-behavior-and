@@ -1,5 +1,3 @@
-Chapter 4: Conducting Effective Behavioral Interviews
-=====================================================
 
 Conducting effective behavioral interviews is crucial to accurately assessing candidates' past behavior and predicting their future performance. In this chapter, we will explore techniques for building rapport with candidates, putting them at ease, and actively listening for valuable information.
 

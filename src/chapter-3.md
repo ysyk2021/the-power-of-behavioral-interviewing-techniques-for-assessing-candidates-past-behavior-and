@@ -1,5 +1,3 @@
-Chapter 3: Developing Behavioral Interview Questions
-====================================================
 
 Developing effective behavioral interview questions is essential to accurately assess candidates' past behavior and predict their future job performance. In this chapter, we will explore strategies for identifying competencies and skills needed for the job, creating questions that elicit detailed responses about past behavior, and structuring questions to assess multiple competencies at once.
 
