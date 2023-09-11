@@ -1,5 +1,4 @@
-Chapter: Advantages of Using Behavioral Interviewing in Hiring Decisions
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

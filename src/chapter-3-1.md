@@ -1,5 +1,4 @@
-Chapter: Identifying the Competencies and Skills Needed for the Job
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

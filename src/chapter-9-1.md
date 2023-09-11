@@ -1,5 +1,4 @@
-Chapter: Tips for Optimizing the Benefits of Behavioral Interviewing
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
